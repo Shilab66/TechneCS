@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: ##1481c4;
+  --color-primary: #1481c4;
   --color-secondary: #f85a40;
 }
 
@@ -248,7 +248,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #1481c4;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -438,7 +438,7 @@ section {
     font-size: 15px;
     text-transform: none;
     font-weight: 600;
-    color: #006a5d;
+    color: #1481c4;
   }
 
   .navbar .dropdown ul a i {
@@ -1030,7 +1030,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #00b6a1;
+  background: #1797e6;
 }
 
 .services .service-item:hover h3 {
@@ -1084,7 +1084,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #009d8b;
+  color: #1481c4;
   font-size: 26px;
   line-height: 0;
 }
